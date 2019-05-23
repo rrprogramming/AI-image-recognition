@@ -2,4 +2,4 @@
 
 This software was developed on jupyter notebook
 
-Arificial inteligence using gradient descend and back propagation to identify Anime Images
+Arificial inteligence using forward propagation and back propagation to identify Anime Images
